@@ -1,0 +1,6 @@
+{
+  "name": "Aura Luxury Furniture",
+  "description": "Premium modern furniture website for a luxury furniture showroom with cinematic presentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
